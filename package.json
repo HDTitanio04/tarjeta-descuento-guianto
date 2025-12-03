@@ -1,0 +1,16 @@
+{
+  "name": "tarjeta-descuento-guianto",
+  "version": "1.0.0",
+  "description": "Tarjeta de descuento virtual para restaurante GuiAnTo",
+  "main": "TarjetaDescuento.jsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["tarjeta", "descuento", "restaurante", "react", "wix"],
+  "author": "Toni Criado",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.2.0",
+    "lucide-react": "^0.263.1"
+  }
+}
